@@ -1,4 +1,4 @@
-# covid19
+# covid19 Visualizations
 
 This script has been developed with the aim to provide some insight into the current covid19 pandemic. The first step was to aggregate the data by continent (an information hardly available anywhere). The second step is just a regular comparison by countries selected by the user.
 
