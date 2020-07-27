@@ -15,8 +15,9 @@ There are 3 main outputs:
  
  Last Updated on 07-26-2020
 
-Total Cases 16,252,541 / total deaths 648,637. Global Mortality Rate: 3.99%.
+ Total Cases 16,252,541 / total deaths 648,637. Global Mortality Rate: 3.99%.
 
+<PRE> 
                Confirmed  Deaths Mortality  Cases Increase  Death Increase
 All             16252541  648637     3.99%          204606            4104
 North America    4992574  205653     4.12%           66691            1606
@@ -27,11 +28,10 @@ Africa            847109   17767     2.10%           18232             245
 Oceania            16580     183     1.10%             555               6
 Other                721      15     2.08%               0               0
 World Records: most cases 282,756 on 7/23/20 - most deaths 9,966 on 7/23/20.
- 
+</PRE> 
   <li>4 graphs with total and daily cases and total and daily deaths;</li>
   
-  
-  
+  <img src=" https://raw.githubusercontent.com/FilippoGalanti/covid19/master/Covid19_Continents.png" alt="Output Example">
   
   <li>a csv with the data and the daily changes for the continents or the selected countries</li>
 </ul> 
