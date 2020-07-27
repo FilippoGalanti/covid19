@@ -12,11 +12,8 @@ There are 3 main outputs:
 
  <ul>
   <li>some generic data with total cases so far and last day increment;</li>
+
 <PRE> 
- Last Updated on 07-26-2020
-
- Total Cases 16,252,541 / total deaths 648,637. Global Mortality Rate: 3.99%.
-
                Confirmed  Deaths Mortality  Cases Increase  Death Increase
 All             16252541  648637     3.99%          204606            4104
 North America    4992574  205653     4.12%           66691            1606
