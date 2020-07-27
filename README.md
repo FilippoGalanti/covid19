@@ -34,5 +34,5 @@ World Records: most cases 282,756 on 7/23/20 - most deaths 9,966 on 7/23/20.
 
 <b>Issues and Future Developments</b>
 
-The code to get the data from some online csv (<a href="https://github.com/CSSEGISandData/COVID-19">Github Repo</a>) need some deeps improvement since it's running pretty inefficiently - it's downloading all the data evrytime even if there is already something previously downloaded. 
+The code to get the data from some online csv (<a href="https://github.com/CSSEGISandData/COVID-19">COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University</a>) need some deeps improvement since it's running pretty inefficiently - it's downloading all the data evrytime even if there is already something previously downloaded. 
 I'll try to run this part more efficiently storing the data locally and adding only what is missing.
